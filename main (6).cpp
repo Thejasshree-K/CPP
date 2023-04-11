@@ -49,7 +49,7 @@ void patient_data()
             cout<<"Date: 12/12/2018"<<endl;
             cout<<"Prescription: Thiazide Diuretics 1-0-1"<<endl;
             cout<<"Review date: 22/04/2022"<<endl;
-            cout<<"Added a new line of code";		
+            cout<<"Added a new line of code"<<endl;		
         break;
             
         case 456:
